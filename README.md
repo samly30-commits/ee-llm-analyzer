@@ -1,3 +1,4 @@
+<img width="1792" height="886" alt="동작영상" src="https://github.com/user-attachments/assets/adeaa067-fb2a-4ba4-8780-23ece0352734" />
 # ee-llm-analyzer
 # ⚡ LLM 기반 코딩 에이전트 활용 전기·전자 엔지니어링 분석 툴킷
 
