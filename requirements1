@@ -1,0 +1,14 @@
+ee-llm-analyzer/
+├── src/
+│   ├── analyzer.py          # 오실로스코프 CSV / FFT 신호처리 핵심 로직
+│   ├── bom_verifier.py     # Gerber-BOM 데이터 교차 검증 스크립트
+│   └── app.py                # Streamlit 기반 웹 대시보드 UI
+├── data/                       # 즉시 테스트 가능한 샘플 입력 데이터
+│   ├── sample_oscilloscope.csv # 파형 분석기용 더미 데이터
+│   └── sample_bom.xlsx         # BOM 검증기용 로그/엑셀 샘플
+├── docs/                       # 발표 자료 저장 폴더
+│   └── 프로젝트_발표자료.pptx    # 기획 의도, 시스템 구조, LLM 디버깅 과정 포함 (5~10장)
+├── prompts/                    # [요구사항] 개발 과정에서 사용한 핵심 프롬프트 요약본
+│   └── prompt_history.md       
+├── requirements.txt            # [요구사항] 패키지 의존성 목록
+└── README.md                 # [요구사항] 루트 경로의 저장소 설명서
