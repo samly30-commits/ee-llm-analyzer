@@ -8,7 +8,7 @@ ee-llm-analyzer/
 │   └── sample_bom.xlsx         # BOM 검증기용 로그/엑셀 샘플
 ├── docs/                       # 발표 자료 저장 폴더
 │   └── 프로젝트_발표자료.pptx    # 기획 의도, 시스템 구조, LLM 디버깅 과정 포함 (5~10장)
-├── prompts/                    # [요구사항] 개발 과정에서 사용한 핵심 프롬프트 요약본
+├── prompts/                    # 개발 과정에서 사용한 핵심 프롬프트 요약본
 │   └── prompt_history.md       
-├── requirements.txt            # [요구사항] 패키지 의존성 목록
-└── README.md                 # [요구사항] 루트 경로의 저장소 설명서
+├── requirements.txt            # 패키지 의존성 목록
+└── README.md                 # 루트 경로의 저장소 설명서
